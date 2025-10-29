@@ -9,9 +9,9 @@ build/
 dist/
 
 # Environment variable files
-.env
-.env.local
-.env.*.local
+**/.env
+**/.env.local
+*/.env..local
 
 # Logs
 logs/
